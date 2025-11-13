@@ -1,0 +1,7 @@
+streamlit==1.36.0
+streamlit-webrtc==0.47.0
+numpy
+opencv-python-headless
+mediapipe==0.10.9
+tensorflow==2.15.0
+av
